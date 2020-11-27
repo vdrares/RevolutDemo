@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="main_color">#0b84f6</color>
+    <color name="dark_main_theme">#E5E5E5</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="title_color">#191C1F</color>
+    <color name="subtitle_color">#8B959E</color>
+    <color name="input_underline_color">#D6DBE0</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
